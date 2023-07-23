@@ -1,23 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hWoH9ZTj9pfuvrCKDQbPnwqA6o1g89O1X3JXMFecmcy0va0qN7TJxdNOwa6npjTJydFQTPYMJa9k5fGjP/fAdg==",
+  "dgSpecHash": "i51r07w+E7Ob0vD8N7vXwHdNhTzgtO6Qa/TE0189yDTV8zODZeEClw3XnOFnrE2K1+D74YLiL71XD/r3bWqQsA==",
   "success": true,
-  "projectFilePath": "E:\\Visual_Studio_Projects\\WPF_Applications\\WpfDemo\\WpfDemo.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\usman\\.nuget\\packages\\caliburn.micro\\4.0.212\\caliburn.micro.4.0.212.nupkg.sha512",
-    "C:\\Users\\usman\\.nuget\\packages\\caliburn.micro.core\\4.0.212\\caliburn.micro.core.4.0.212.nupkg.sha512",
-    "C:\\Users\\usman\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\usman\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
-    "C:\\Users\\usman\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.37\\microsoft.xaml.behaviors.wpf.1.1.37.nupkg.sha512",
-    "C:\\Users\\usman\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
-    "C:\\Users\\usman\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
-    "C:\\Users\\usman\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
-    "C:\\Users\\usman\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
-    "C:\\Users\\usman\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
-    "C:\\Users\\usman\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
-    "C:\\Users\\usman\\.nuget\\packages\\system.runtime.serialization.primitives\\4.3.0\\system.runtime.serialization.primitives.4.3.0.nupkg.sha512",
-    "C:\\Users\\usman\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
-    "C:\\Users\\usman\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
-  ],
+  "projectFilePath": "E:\\Visual_Studio_Projects\\WPF_Applications\\WPF_Demo_App\\WpfDemo.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Visual_Studio_Projects\\WPF_Applications\\WpfDemo\\WpfDemo.csproj": {}
+    "E:\\Visual_Studio_Projects\\WPF_Applications\\WPF_Demo_App\\WpfDemo.csproj": {}
   },
   "projects": {
-    "E:\\Visual_Studio_Projects\\WPF_Applications\\WpfDemo\\WpfDemo.csproj": {
+    "E:\\Visual_Studio_Projects\\WPF_Applications\\WPF_Demo_App\\WpfDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Visual_Studio_Projects\\WPF_Applications\\WpfDemo\\WpfDemo.csproj",
+        "projectUniqueName": "E:\\Visual_Studio_Projects\\WPF_Applications\\WPF_Demo_App\\WpfDemo.csproj",
         "projectName": "WpfDemo",
-        "projectPath": "E:\\Visual_Studio_Projects\\WPF_Applications\\WpfDemo\\WpfDemo.csproj",
+        "projectPath": "E:\\Visual_Studio_Projects\\WPF_Applications\\WPF_Demo_App\\WpfDemo.csproj",
         "packagesPath": "C:\\Users\\usman\\.nuget\\packages\\",
-        "outputPath": "E:\\Visual_Studio_Projects\\WPF_Applications\\WpfDemo\\obj\\",
+        "outputPath": "E:\\Visual_Studio_Projects\\WPF_Applications\\WPF_Demo_App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\usman\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,12 +39,6 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
-          "dependencies": {
-            "Caliburn.Micro": {
-              "target": "Package",
-              "version": "[4.0.212, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
