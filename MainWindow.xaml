@@ -12,9 +12,7 @@
             <ColumnDefinition Width="auto"/>
             <ColumnDefinition Width="auto"/>
             <ColumnDefinition Width="auto"/>
-            <ColumnDefinition Width="328*"/>
-            <ColumnDefinition Width="89*"/>
-            <ColumnDefinition Width="47*"/>
+            <ColumnDefinition Width="*"/>
             <ColumnDefinition Width="20"/>
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
@@ -44,7 +42,7 @@
                  Click="submitButton_Click" />
 
 
-        <Image Grid.Column="4" Grid.Row="1" Grid.RowSpan="6" Source="/images/1.jpg" />
+        <Image Grid.Column="4" Grid.Row="1" Grid.RowSpan="6" Source="/images/1.jpg"  Margin="20 0 0 0"/>
 
 
 
