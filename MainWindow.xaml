@@ -42,7 +42,9 @@
                  Click="submitButton_Click" />
 
 
-        <Image Grid.Column="4" Grid.Row="1" Grid.RowSpan="6" Source="/images/1.jpg"  Margin="20 0 0 0"/>
+       <!--<Image Grid.Column="4" Grid.Row="1" Grid.RowSpan="6" Source="/images/1.jpg"  Margin="20 0 0 0"/>-->
+        <MediaElement Grid.Column="4" Grid.Row="1" Grid.RowSpan="6" Source="E:\Visual_Studio_Projects\WPF_Applications\WPF_Demo_App\video/video.mp4"   LoadedBehavior="Play"  Margin="20 0 0 0"/>
+
 
 
 

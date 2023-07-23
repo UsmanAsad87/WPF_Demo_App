@@ -17,4 +17,10 @@
     <Resource Include="images\7.png" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="video\video.mp4">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
