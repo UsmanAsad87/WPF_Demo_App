@@ -9,12 +9,20 @@
 
   <ItemGroup>
     <None Remove="images\1.jpg" />
+    <None Remove="images\2.jpg" />
+    <None Remove="images\3.jpg" />
+    <None Remove="images\4.jpg" />
     <None Remove="images\7.png" />
+    <None Remove="images\img.jpg" />
   </ItemGroup>
 
   <ItemGroup>
     <Resource Include="images\1.jpg" />
+    <Resource Include="images\2.jpg" />
+    <Resource Include="images\3.jpg" />
+    <Resource Include="images\4.jpg" />
     <Resource Include="images\7.png" />
+    <Resource Include="images\img.jpg" />
   </ItemGroup>
 
   <ItemGroup>

@@ -51,8 +51,17 @@ namespace WpfDemo
 
         private void submitButton_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show($"Hello {firstNameText.Text}");
-
+            if (myComboBox.SelectedItem != null)
+            {
+                Country selectedCountry = (Country)myComboBox.SelectedItem;
+                string countryName = selectedCountry.countryName;
+                string countryCode = selectedCountry.code;
+                MessageBox.Show($"Hello {firstNameText.Text} from {countryName}({countryCode})");
+            }
+            else
+            {
+                MessageBox.Show($"Hello {firstNameText.Text}");
+            }
         }
 
         public class Country
